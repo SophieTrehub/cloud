@@ -1,0 +1,27 @@
+body{
+background: #163;
+}
+footer{
+    background: rgb(218, 184, 231);
+    display: block;
+    min-height: 20px;
+    height: 100px;
+    color: rgb(15, 71, 12);
+    margin-top: 50px;
+    }
+.Link1 {
+    background-color: #feeff4;
+    border-left: 8px solid #aa2961;
+    color: #49152c;
+    padding: 30px 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    }
+.info {
+    width: 200px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+    }
